@@ -8,4 +8,4 @@
 
 **The app Diagram Architecture**
 
-![Architecture]([/sample-images/infrastructure-diagram.jpeg)
+![infrastructure-diagram](https://user-images.githubusercontent.com/40390216/174494674-24c654ef-e65f-4390-ad53-2e0b5b98a5d2.jpg)
