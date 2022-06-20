@@ -1,5 +1,7 @@
 # Deploy-a-high-availability-web-app-using-CloudFormation
 
+**URL:** http://serve-webap-p5n7hxftlwng-1170051482.us-east-1.elb.amazonaws.com/
+
 **Files**
 1. network.yml => Has the network Infrastructure
 2. Network-param.json => Has the network parameters
